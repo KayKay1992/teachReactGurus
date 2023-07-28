@@ -1,0 +1,11 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px ;
+    padding: 20px;
+    background-image: url(../../public/backgroundimage2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+}

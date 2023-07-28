@@ -1,0 +1,25 @@
+
+.button button{
+    background-color: rgb(76, 53, 97);
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+    letter-spacing: .1rem;
+    outline: none;
+    box-shadow: 0 9px #999;
+    transition: all 0.3s ease;
+
+}
+.button:hover{
+    box-shadow: 0 5px #666;
+    transform: translateY(-5px);
+    background-color: rgb(49, 2, 90);
+    
+}

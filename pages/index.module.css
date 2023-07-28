@@ -1,0 +1,51 @@
+/* .section{
+  display: flex;
+  margin: 3rem 7rem;
+  font-family: sans-serif;
+  
+}
+.card{
+  background-color: rgb(187, 183, 183);
+  width: 500px;
+  height: 500px;
+}
+.card h3{
+  margin: 8rem 10rem 3rem 10rem;
+  font-size: .7rem;
+  letter-spacing: 0.1rem;
+}
+.card h3:hover{
+  color: rgba(27, 27, 78, 0.884);
+  cursor: pointer;
+}
+.card h1{
+  font-size: 1.7rem;
+  color: rgb(29, 27, 27);
+  margin: 0 2rem 1rem 2rem;
+  text-align: center;
+  letter-spacing: 0.2rem;
+}
+.card h1:hover{
+  color: rgba(27, 27, 78, 0.884);
+  cursor: pointer;
+}
+.card p{
+  color: rgb(29, 27, 27);
+  letter-spacing: 0.1rem;
+  font-size: 0.8rem;
+  text-align: center;
+  margin: 0 2rem 2rem 2rem;
+}
+.card button{
+  font-size: large;
+  background-color: transparent;
+  border: none;
+  color: rgb(29, 27, 27);
+  letter-spacing: .1rem;
+  margin-left: 13rem;
+  transition: 1s;
+}
+.card button:hover{
+  color:grey;
+  cursor: pointer;
+} */
